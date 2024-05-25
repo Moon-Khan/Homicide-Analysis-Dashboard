@@ -16,5 +16,8 @@ Welcome to the Homicide Analysis Dashboard repository. This project leverages Po
 
 The data used in this dashboard is stored in a PostgreSQL database, ensuring real-time updates and robust data management. I have attached file from where i got data: Homicide_by_Countries.xls
 
-## Data Sources
-Here's my dashbaord:
+## Here's my dashboard:
+
+![homicide](https://github.com/Moon-Khan/Homicide-Analysis-Dashboard/assets/122151402/228a820e-6f45-4937-93f6-30be61440916)
+
+
